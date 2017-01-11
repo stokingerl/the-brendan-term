@@ -1,7 +1,7 @@
 # hyper-brendan
 Hyper plug in for THE BRENDAN as your terminal background.
 
-Shows a new gif with each window
+Shows a new image with each window
 
 # Install
 Install [Hyper](https://hyper.is)
