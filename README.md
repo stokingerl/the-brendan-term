@@ -1,5 +1,5 @@
-# hyper-aww
-Hyper plug in for a random cute animal gif as your terminal background.
+# hyper-brendan
+Hyper plug in for THE BRENDAN as your terminal background.
 
 Now shows a new gif with each window! (v1.1.0)
 
@@ -8,10 +8,10 @@ Now shows a new gif with each window! (v1.1.0)
 # Install
 Install [Hyper](https://hyper.is)
 
-Then, add `'hyper-aww'` to the plugins list in `~/.hyper.js`:
+Then, add `'hyper-brendan'` to the plugins list in `~/.hyper.js`:
 
 ```javascript
 plugins: [
-  'hyper-aww'
+  'hyper-brendan'
 ]
 ````

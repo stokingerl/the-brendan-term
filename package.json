@@ -1,18 +1,18 @@
 {
-  "name": "hyper-aww",
-  "version": "1.1.0",
-  "description": "Cute animal gifs as your terminal background",
+  "name": "hyper-brendan",
+  "version": "1.0.0",
+  "description": "THE Brendan Fraser",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stokingerl/hyper-aww.git"
+    "url": "git+https://github.com/stokingerl/the-brendan-term.git"
   },
   "keywords": [
     "hyper",
-    "aww",
-    "cute",
-    "animals"
+    "brendan",
+    "fraser",
+    "god"
   ],
   "author": "stokingerl <liamstokinger@gmail.com>",
   "license": "MIT"
